@@ -1,4 +1,4 @@
-# Hi there 👋, My name is Karan Jayabalan
+# Hi there 👋, My Name is Karan Jayabalan
 
 I'm a Sofware developer currently working in tech stack like sql server , Azure Data factory ,Passionate in Developing Website , familier with front-end tech like React JS Javascript , CSS frameWork like Tailwind ,ContextApi Still....Lot
 
